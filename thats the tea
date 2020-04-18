@@ -1,0 +1,1 @@
+# stop_corona_game
